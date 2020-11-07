@@ -1,6 +1,6 @@
 ! 2020-10-22 https://www.thisisgamethailand.com
-www.thisisgamethailand.com###adsbannermtigads
+thisisgamethailand.com###adsbannermtigads
 
 ! 2020-11-07 https://www.mustplay.in.th
-www.mustplay.in.th##.hidden-xs.container.preloader_pc.preloader
-www.mustplay.in.th##.cover_page.closed_mo.closed.cover_preload
+mustplay.in.th##.hidden-xs.container.preloader_pc.preloader
+mustplay.in.th##.cover_page.closed_mo.closed.cover_preload
