@@ -1,3 +1,8 @@
+! Title: LagSeeN filter
+! Expires: 1 days
+! Description: My personal list
+! GitHub issues: https://github.com/LagSeeN/lagseen-adblock-filter
+
 ! 2020-10-22 https://www.thisisgamethailand.com
 thisisgamethailand.com###adsbannermtigads
 
