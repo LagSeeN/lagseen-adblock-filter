@@ -14,3 +14,4 @@ mustplay.in.th##.cover_page.closed_mo.closed.cover_preload
 
 ! 2020-11-07 https://siamblockchain.com/
 siamblockchain.com##+js(no-setTimeout-if, mdp)
+||siamblockchain.com/wp-content/plugins/deblocker/js/ads.min.js$script,1p
