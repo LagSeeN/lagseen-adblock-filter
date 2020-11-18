@@ -4,14 +4,14 @@
 ! GitHub issues: https://github.com/LagSeeN/lagseen-adblock-filter
 
 ! 2020-10-22 https://www.thisisgamethailand.com
-thisisgamethailand.com###adsbannermtigads
-thisisgamethailand.com###adsbannermtig
+||thisisgamethailand.com###adsbannermtigads
+||thisisgamethailand.com###adsbannermtig
 
 ! 2020-11-07 https://www.mustplay.in.th
-mustplay.in.th##.preloader
-mustplay.in.th##.hidden-xs.container.preloader_pc.preloader
-mustplay.in.th##.cover_page.closed_mo.closed.cover_preload
+||mustplay.in.th##.preloader
+||mustplay.in.th##.hidden-xs.container.preloader_pc.preloader
+||mustplay.in.th##.cover_page.closed_mo.closed.cover_preload
 
 ! 2020-11-07 https://siamblockchain.com/
-siamblockchain.com##+js(no-setTimeout-if, mdp)
+||siamblockchain.com##+js(no-setTimeout-if, mdp)
 ||siamblockchain.com/wp-content/plugins/deblocker/*$script,1p
