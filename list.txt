@@ -16,6 +16,7 @@ mustplay.in.th##.cover_page.closed_mo.closed.cover_preload
 cat300.com##.col-md-12.col-sm-12.col-12 .col-md-12
 cat300.com###cat300_ads3
 cat300.com###cat300_ads2
+cat300.com##.custom-html-widget.textwidget .col-md-12
 
 ! เว็บธนาคารปลอม
 www.asiascb.com
