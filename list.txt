@@ -16,6 +16,11 @@ mustplay.in.th##.cover_page.closed_mo.closed.cover_preload
 siamblockchain.com##+js(no-setTimeout-if, mdp)
 siamblockchain.com/wp-content/plugins/deblocker/*$script,1p
 
+! 2021-03-09 https://cat300.com
+cat300.com##.col-md-12.col-sm-12.col-12 .col-md-12
+cat300.com###cat300_ads3
+cat300.com###cat300_ads2
+
 ! เว็บธนาคารปลอม
 www.asiascb.com
 sc-bbk.com
