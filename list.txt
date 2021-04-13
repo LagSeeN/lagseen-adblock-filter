@@ -18,6 +18,19 @@ cat300.com###cat300_ads3
 cat300.com###cat300_ads2
 cat300.com##.custom-html-widget.textwidget .col-md-12
 
+! 2021-03-20 https://playulti.com
+playulti.com##.b1_banner_sm
+playulti.com##.b1_banner
+playulti.com##.uk-first-column.w-100.bannerB3ViewPoint.d-md-none.banner_p3 > .banner_b3_show.text-center.banner
+playulti.com##.banner_b2_show.text-center.banner
+playulti.com##.d-md-block.d-none.uk-sticky.text-center > .banner_b3_show.text-center.banner
+
+! 2021-04-13 https://megaup.net
+! Whitelist ads to download file
+@@||s-img.adskeeper.co.uk^$domain=megaup.net
+megaup.net#@#[id^="AdskeeperComposite"] *:style(visibility: hidden !important;)
+
+
 ! เว็บธนาคารปลอม
 www.asiascb.com
 sc-bbk.com
