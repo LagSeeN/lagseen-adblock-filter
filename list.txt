@@ -83,5 +83,61 @@ manga168.com###ads_fox_bottom
 manga168.com##.dessert-frame
 manga168.com##div.kln:nth-of-type(3)
 
+! 2022-03-29 https://mawtoload.com
+mawtoload.com##.code-block-4.code-block
+mawtoload.com##.ai-viewport-2.ai-viewport-1.code-block-3.code-block
+mawtoload.com##.ai-viewport-2.ai-viewport-1.code-block-2.code-block
+mawtoload.com##.code-block-5.code-block > [href]
+
+! 2022-04-08 https://www.anime-sugoi.com
+www.anime-sugoi.com##.col-md-8 > center
+www.anime-sugoi.com##.row > center
+
+! 2022-04-18 https://animekimi.com
+animekimi.com###animekimiads1
+animekimi.com###animekimiads4
+animekimi.com###animekimiads5
+animekimi.com###animekimiads2
+animekimi.com###animekimiads3
+
+! 2022-07-13 https://www.anime-sugoi.com
+www.anime-sugoi.com##center:nth-of-type(2)
+www.anime-sugoi.com##center:nth-of-type(3)
+www.anime-sugoi.com##center:nth-of-type(3)
+
+! 2022-10-17 https://www.mebmarket.com
+@@||web-asset2.mebmarket.com/adbanner/*$1p
+
+! 2022-10-20 https://mawtoload.com
+mawtoload.com##.code-block-6.code-block
+
+! 2023-03-06 https://mawtoload.com
+||mawtoload.com/wp-content/uploads/202*$image
+mawtoload.com###banner-post
+
+! 2023-06-29 https://droidsans.com
+droidsans.com##.active.dpdpa--popup
+
+! 2023-08-01 https://secure2.playpark.com
+secure2.playpark.com###adop_bfd
+
+! 2023-08-01 https://audition.playpark.com
+audition.playpark.com###adop_bfd
+
+! 2023-08-05 https://talesrunner.playpark.com
+talesrunner.playpark.com###adop_bfd
+
+! 2023-12-27 https://moodtoon.com
+moodtoon.com##.kln.mlb.blox
+moodtoon.com##.ads-info
+
+! 2023-12-28 https://manga168.com
+manga168.com###ads_fox_bottom
+manga168.com##.dessert-frame
+manga168.com##div.kln:nth-of-type(3)
+
+! 2024-02-09 https://www.advancevending.net
+@@||www.advancevending.net^
+
 
 
