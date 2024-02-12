@@ -140,6 +140,10 @@ manga168.com##div.kln:nth-of-type(3)
 @@||www.advancevending.net^
 @@||www.advancevending.net^$document
 
+! 2024-02-12 https://succeedscene.com
+@@||succeedscene.com^
+@@||succeedscene.com^$document
+
 
 
 
