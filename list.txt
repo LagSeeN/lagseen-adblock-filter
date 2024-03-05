@@ -146,6 +146,11 @@ manga168.com##div.kln:nth-of-type(3)
 
 ! 2024-02-17 https://appsflyer.com
 @@||appsflyer.com
+@@||app.appsflyer.com
+
+! 2024-03-05 https://tivan.naver.com
+@@||tivan.naver.com
+
 
 
 
