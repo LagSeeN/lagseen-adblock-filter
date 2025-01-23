@@ -36,21 +36,12 @@ mawtoload.com##.ai-viewport-2.ai-viewport-1.code-block-3.code-block
 mawtoload.com##.ai-viewport-2.ai-viewport-1.code-block-2.code-block
 mawtoload.com##.code-block-5.code-block > [href]
 
-! 2022-04-08 https://www.anime-sugoi.com
-www.anime-sugoi.com##.col-md-8 > center
-www.anime-sugoi.com##.row > center
-
 ! 2022-04-18 https://animekimi.com
 animekimi.com###animekimiads1
 animekimi.com###animekimiads4
 animekimi.com###animekimiads5
 animekimi.com###animekimiads2
 animekimi.com###animekimiads3
-
-! 2022-07-13 https://www.anime-sugoi.com
-www.anime-sugoi.com##center:nth-of-type(2)
-www.anime-sugoi.com##center:nth-of-type(3)
-www.anime-sugoi.com##center:nth-of-type(3)
 
 ! 2022-10-17 https://www.mebmarket.com
 @@||web-asset2.mebmarket.com/adbanner/*$1p
@@ -89,21 +80,12 @@ mawtoload.com##.ai-viewport-2.ai-viewport-1.code-block-3.code-block
 mawtoload.com##.ai-viewport-2.ai-viewport-1.code-block-2.code-block
 mawtoload.com##.code-block-5.code-block > [href]
 
-! 2022-04-08 https://www.anime-sugoi.com
-www.anime-sugoi.com##.col-md-8 > center
-www.anime-sugoi.com##.row > center
-
 ! 2022-04-18 https://animekimi.com
 animekimi.com###animekimiads1
 animekimi.com###animekimiads4
 animekimi.com###animekimiads5
 animekimi.com###animekimiads2
 animekimi.com###animekimiads3
-
-! 2022-07-13 https://www.anime-sugoi.com
-www.anime-sugoi.com##center:nth-of-type(2)
-www.anime-sugoi.com##center:nth-of-type(3)
-www.anime-sugoi.com##center:nth-of-type(3)
 
 ! 2022-10-17 https://www.mebmarket.com
 @@||web-asset2.mebmarket.com/adbanner/*$1p
@@ -153,6 +135,13 @@ manga168.com##div.kln:nth-of-type(3)
 
 ! Jan 23, 2025 https://animegojo.com
 animegojo.com##.bannerrow
+
+! Jan 23, 2025 https://animegojo.com
+animegojo.com##.bannerrow
+
+! Jan 23, 2025 https://www.anime-sugoi.com
+www.anime-sugoi.com##div.container > .row > .center_lnwphp
+www.anime-sugoi.com##.panel-body > center
 
 
 
