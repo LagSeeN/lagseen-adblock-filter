@@ -143,7 +143,10 @@ animegojo.com##.bannerrow
 www.anime-sugoi.com##div.container > .row > .center_lnwphp
 www.anime-sugoi.com##.panel-body > center
 
-
+! Jan 28, 2025 https://www.anime-suba.com
+www.anime-suba.com##.figure02
+www.anime-suba.com###light
+||www.anime-suba.com/Anime-Suba/Admin/imgAnadvertisement/*$image
 
 
 
