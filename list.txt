@@ -148,6 +148,9 @@ www.anime-suba.com##.figure02
 www.anime-suba.com###light
 ||www.anime-suba.com/Anime-Suba/Admin/imgAnadvertisement/*$image
 
+! Jan 29, 2025 https://037-anime.com
+037-anime.com##.mix-bnn-widget.mb-4.widget
+
 
 
 
