@@ -151,6 +151,6 @@ www.anime-suba.com###light
 ! Jan 29, 2025 https://037-anime.com
 037-anime.com##.mix-bnn-widget.mb-4.widget
 
-
-
+! Mar 05, 2025 https://animegojo.com
+animegojo.com###bt-ads
 
