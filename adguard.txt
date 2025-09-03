@@ -1,1 +1,30 @@
+! Title: LagSeeN filter
+! Expires: 1 days
+! Description: My personal list
+! GitHub issues: https://github.com/LagSeeN/lagseen-adblock-filter
+
 animegojo.com###bt-ads
+
+doujinxhub.net###block-10
+doujinxhub.net###content > div.row:last-child > div.col-sm-12:nth-child(2)
+doujinxhub.net###wbnn > a:last-child > img
+doujinxhub.net###wbnn > span.wbnn-close:first-child
+doujinxhub.net###wbnn
+doujinxhub.net##.w-100
+
+animeseven.com##div.container:nth-child(3) > div.row > p.center_lnwphp:nth-child(2)
+animeseven.com##div.container:nth-child(3) > div.row > div.col-lg-9:nth-child(3) > div.panel.panel-danger > div.panel-body:last-child > center:nth-child(3)
+animeseven.com##div.container:nth-child(3) > div.row > div.col-lg-9:nth-child(3) > div.panel.panel-danger > div.panel-body:last-child > center:nth-child(4)
+animeseven.com##div.container:nth-child(3) > div.row > div.col-lg-9:nth-child(3) > div.panel.panel-danger > div.panel-body:last-child > center:nth-child(9)
+
+dlpanda.com###banner-dl-a
+dlpanda.com##button.scroll-top.scroll-to-target.open:nth-child(6)
+dlpanda.com##main:nth-child(2) > section.domain-search-result-section.gray-light-bg.title-sec:first-child > div.container > div.col-lg-12 > div:last-child > div:nth-child(5) > ins.adsbygoogle:nth-child(2)
+dlpanda.com##main:nth-child(2) > section.domain-search-result-section.gray-light-bg.title-sec:first-child > div.container > div.col-lg-12 > div:last-child > div.hero.col-md-12.col-lg-12.pl-0.pr-0:last-child > div.single-popular-domain.position-relative.white-bg.rounded.shadow-sm.p-3.mt-sm-4.mt-md-5.mt-lg-4 > div.domain-info-wrap > div.card-body.row:first-child > div.col-md-12.col-lg-6:nth-child(2)
+
+anime-sugoi.com##div.container:nth-child(3) > div.row > p.center_lnwphp:first-child
+anime-sugoi.com##div.container:nth-child(3) > div.row > div.col-lg-9:nth-child(2) > div.panel.panel-danger > div.panel-body:last-child > center:nth-child(3)
+
+poipiku.com##article.Wrapper.ViewPc:nth-child(9) > span:first-child
+
+xn--72ca0fgy7cem.com##div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(6)
