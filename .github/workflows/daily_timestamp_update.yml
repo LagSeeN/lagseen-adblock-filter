@@ -1,0 +1,53 @@
+name: Daily Timestamp Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-timestamp:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup SSH Signing Key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_SIGNING_KEY }}" > ~/.ssh/id_signing
+          chmod 600 ~/.ssh/id_signing
+
+          git config --global user.name "${{ secrets.USER_NAME }}"
+          git config --global user.email "${{ secrets.USER_EMAIL }}"
+          git config --global gpg.format ssh
+          git config --global user.signingkey "~/.ssh/id_signing"
+          git config --global commit.gpgsign true
+
+      - name: Update the specific line in file
+        run: |
+          # 1. กำหนดชื่อไฟล์ที่คุณต้องการแก้ไข (เปลี่ยน yourfile.txt เป็นชื่อจริงของคุณ)
+          FILENAME="adguard.txt"
+          
+          # 2. สร้าง Timestamp ในรูปแบบ ! Last modified: 2025-12-19T10:45:00+0000
+          # เราใช้ date -u เพื่อให้เป็นเวลามาตรฐาน UTC
+          NEW_TIMESTAMP="! Last modified: $(date -u +'%Y-%m-%dT%H:%M:%S+0000')"
+          
+          # 3. ใช้ sed ค้นหาบรรทัดที่ขึ้นต้นด้วย ! Last modified: แล้วแทนที่ทั้งบรรทัด
+          sed -i "s/! Last modified: .*/$NEW_TIMESTAMP/" $FILENAME
+          
+          echo "Updated to: $NEW_TIMESTAMP"
+
+      - name: Commit and Push changes
+        run: |
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: daily update timestamp"
+            git push
+          fi
