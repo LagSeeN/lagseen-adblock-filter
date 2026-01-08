@@ -2,7 +2,7 @@
 ! Expires: 1 days
 ! Description: My personal list
 ! GitHub issues: https://github.com/LagSeeN/lagseen-adblock-filter
-! Last modified: 2026-01-07T01:10:00+0000
+! Last modified: 2026-01-08T01:09:50+0000
 
 animegojo.com###bt-ads
 
